@@ -107,6 +107,7 @@ pcr2_method_additional: not applicable
 | PROTOCOL NAME | LINK  | VERSION | RELEASE DATE|
 | ------------- | ------------- | ------------- | ------------- |
 | AOML 'Omics Protocols | <https://github.com/aomlomics/protocols> | 1.2.2 | ongoing |
+| NOAA 'Omics Metabarcoding Assays | https://github.com/NOAA-Omics/noaa-omics-metabarcoding-assays | not applicable | ongoing |
 
 #### External Protocols
 
